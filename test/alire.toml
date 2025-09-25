@@ -1,0 +1,14 @@
+name = "test"
+description = ""
+version = "0.1.0-dev"
+authors = ["Your Name"]
+maintainers = ["Your Name <example@example.com>"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
+executables = ["test"]
+[[depends-on]]
+neorv32_hal = "*"
+bare_runtime= "*"
+[[pins]]
+neorv32_hal = { path = ".." } 

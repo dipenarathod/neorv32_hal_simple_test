@@ -1,0 +1,29 @@
+[GENERATED OBJECT FILE]
+b__test.o
+[PROJECT FILES]
+/home/dipen/neorv32_workspace/neorv32_hal/test/test.gpr
+20250922074506 633d2457d094581ca9f355cde3ad5643
+/home/dipen/neorv32_workspace/neorv32_hal/config/neorv32_hal_config.gpr
+20250922075828 a28932783a0e5a9b4043072ff7693c55
+/home/dipen/neorv32_workspace/neorv32_hal/neorv32_hal.gpr
+20250921075146 2e567302ca96f4ff654d92860ae719c4
+/home/dipen/.local/share/alire/builds/bare_runtime_14.0.0_095db6f0/282b01b920f0d5bb2bac604ac6d9e811f26d175144bc99af963e0381e797ee94/target_options.gpr
+20250921045803 f41afb90e77c63a9385fba3b7aa239f1
+/home/dipen/.local/share/alire/builds/bare_runtime_14.0.0_095db6f0/282b01b920f0d5bb2bac604ac6d9e811f26d175144bc99af963e0381e797ee94/bare_runtime.gpr
+20250921045803 be29748ec64a1d4ced472bb9ced44188
+/home/dipen/neorv32_workspace/neorv32_hal/test/config/test_config.gpr
+20250922075828 b21edeba8f397a3897040f7f965e5051
+[BOUND OBJECT FILES]
+/home/dipen/neorv32_workspace/neorv32_hal/test/obj/development/runtime_support.o
+/home/dipen/neorv32_workspace/neorv32_hal/test/obj/development/test.o
+[GENERATED SOURCE FILES]
+b__test.ads
+b__test.adb
+b__test.ali
+[RESULTING OPTIONS]
+-L/home/dipen/neorv32_workspace/neorv32_hal/test/obj/development/
+-L/home/dipen/neorv32_workspace/neorv32_hal/test/obj/development/
+-L/home/dipen/.local/share/alire/builds/bare_runtime_14.0.0_095db6f0/282b01b920f0d5bb2bac604ac6d9e811f26d175144bc99af963e0381e797ee94/adalib/
+-L/home/dipen/neorv32_workspace/neorv32_hal/lib/
+-static
+/home/dipen/.local/share/alire/builds/bare_runtime_14.0.0_095db6f0/282b01b920f0d5bb2bac604ac6d9e811f26d175144bc99af963e0381e797ee94/adalib/libgnat.a
