@@ -6,5 +6,7 @@ Same directory level as the demos folder
 (I suggest going into the neorv32_hal folder and creating a project using alr init)
 
 Files of interest:
-- runtime_support.adb
-- runtime_support.ads
+- src/runtime_support.adb
+- src/runtime_support.ads
+- alire.toml
+- test.gpr
