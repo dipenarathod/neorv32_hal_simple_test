@@ -8,6 +8,8 @@ procedure Test is
 
 
 begin
+   Interrupts.Init;
+   Uart0.Init (19200);
    -- Your test code here
    loop
       null;
