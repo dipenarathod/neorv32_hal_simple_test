@@ -15,10 +15,10 @@ To create the .bin file:
 riscv64-elf-objcopy -O binary bin/test bin/test.bin
 
 Generic command:
-riscv64-elf-objcopy -O binary bin/<executable name> bin/<whatever name you want>.bin
+riscv64-elf-objcopy -O binary bin/(executable name) bin/(bin file name).bin
 
 Creating an application VHDL file:
 image_gen -app_vhd bin/test.bin bin/neorv32_application_image.vhd
 
 Generic command:
-image_gen -app_vhd bin/<bin file name>.bin bin/<vhdl file name>.vhd
+image_gen -app_vhd bin/(bin file name).bin bin/(vhdl file name).vhd
