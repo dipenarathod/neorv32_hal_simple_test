@@ -3,7 +3,7 @@ with Runtime_Support;
 with neorv32.UART0;
 with neorv32;
 with Uart0;
-
+with Interrupts;
 procedure Test is
 
 
